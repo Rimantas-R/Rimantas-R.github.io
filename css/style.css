@@ -1,4 +1,5 @@
-body {background-color: white;}
+body {background-color: white;
+margin: 20%;}
 body > div > p {border-width: 1px; border-color:  lightblue; border-style: none none solid none;}
 h3,h4 {font: 1em sans-serif; color:#777; font-size: larger; font-weight: bolder;}
 h4 {font-size: medium;}
